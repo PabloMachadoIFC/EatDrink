@@ -1,0 +1,50 @@
+.table-titulo{
+    background-color: #A9A9A9;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+
+
+
+#morris-bar-chart {
+-webkit-transition: all 2s; /* Safari */
+transition: all 2s;
+}
+
+
+--minimizado--
+#morris-table-left-div{ 
+height: 350px;
+overflow: hidden;
+}
+--minimizado--
+
+.header-row {
+padding: 0 18px;
+}
+.header-column {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+display: inline-block;
+font-weight: 300;
+color: #555;
+/*border: 1px solid grey;*/
+padding: 0px;
+width: 24%;
+box-sizing: border-box; /*content-box|border-box|initial|inherit;*/
+}
+.list-group-column {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+display: inline-block;
+font-weight: 300;
+color: #555;
+/*border: 1px solid grey;*/
+padding: 0px;
+width: 24%;
+}
